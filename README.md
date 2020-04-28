@@ -1,44 +1,5 @@
-<div align="center">
-    <a href=""> <img src="images/readme_badges/WechatIMG649.jpeg" width="350" height="175"></a>
-    <br>
-    <a href=""> <img src="https://img.shields.io/badge/%3E-awesome-red.svg"></a> <a href=""><a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python"> <img src="https://img.shields.io/badge/%3E-algorithm-red.svg"></a> <a href="https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python"> <img src="https://img.shields.io/badge/%3E-leetcode-red.svg"></a> 
-</div>
-
-<h1 align="center">结构化算法刷题训练指南</h1>
-
-> Special Sponsors
-
-<table>
-      <tbody>
-        <tr>
-          <td align="center" valign="middle">
-            <a href="https://coding.net/?utm_source=ApacheCN&utm_medium=banner&utm_campaign=march2019" target="_blank">
-              <img width="1080" src="http://data.apachecn.org/img/SpecialSponsors/CodingNet.png">
-            </a>
-          </td>
-      </tbody>
-</table>
-
-## Contents
-1. [Leetcode Solutions](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions)
-    - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Python)
-    - [Java](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/Java)
-    - [JavaScript](https://github.com/apachecn/awesome-algorithm/tree/master/docs/Leetcode_Solutions/JavaScript)
-    - [C++](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/C++)
-    - [ipynb](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Leetcode_Solutions/ipynb)
-2. [剑指 Offer](https://github.com/apachecn/awesome-algorithm/tree/master/docs/%E5%89%91%E6%8C%87offer)
-    - [Python](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/Python)
-    - [Java](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/Java)
-    - [JavaScript](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/JavaScript)
-    - [C++](https://github.com/apachecn/awesome-algorithm/tree/master/docs/剑指offer/C++)
-2. [Algorithm Implementation](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation)
-    - [Python](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Python)
-    - [Java](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/Java)
-    - [JavaScript](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/JavaScript)
-    - [C++](https://github.com/apachecn/awesome-leetcode/tree/master/docs/Algorithm_Implementation/C++)
-    
 ## Useful Links
-- [结构化算法刷题训练指南](https://xiaozhuanlan.com/Lisanaaa)(希望大家支持一下！)
+- [结构化算法刷题训练指南](https://xiaozhuanlan.com/Lisanaaa)
 - [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/index.html)
 - [kamyu104的Github](https://github.com/kamyu104/LeetCode-Solutions)
 - [数据结构与算法/leetcode/lintcode题解](https://algorithm.yuanbin.me/zh-hans/)
@@ -93,7 +54,7 @@ If you are a newbie of Git, please check this [tutorial](https://github.com/apac
 - Dec 2017, this project was only considered as my record of question solutions.
 - Mar 2018, the project continued to have dozens of stars. I felt that my thinking and funny words were helpful to others, determined to persist, and never stop.
 - May 2018, I had to start my internship, less update, but the number of stars reached 200.
-- Sep 2018, since I was also looking for a domestic job, I would send my own code link on the nowcoder.com  every time I finished the online tech test. The strategy for attracting traffic was very successful, the number of stars reached 1.7k in a rush way. At this moment, I found that my thinking and description styles are very popular, but the power of one person is limited, so I would like to recruit some like-minded people to contribute to the project like myself. 
+- Sep 2018, since I was also looking for a domestic job, I would send my own code link on the nowcoder.com each time I finished the online tech test. The strategy for attracting traffic was very successful, number of stars reached 1.7k in a rush way. At this moment, I found that my thinking and description styles are very popular, but the power of one person is limited, so I would like to recruit some like-minded people to contribute to the project like myself. 
 
 The current positioning of this project is to implement the basic algorithm in different programming languages, refining the boilerplate, and summarize the ideas. 
 
