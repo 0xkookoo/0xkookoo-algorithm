@@ -62,30 +62,11 @@
 - [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/java/)
 - [AlgoCasts 用心做好每一个算法视频](https://algocasts.io)
 - [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
+- [fucking-alogorithm](https://github.com/labuladong/fucking-algorithm)
 
 ## Sponsor
-1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.**
-2. [jiangzhonglian](https://github.com/jiangzhonglian)
+1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.** 
 
-## Contributors
-1. [Lisanaaa](https://github.com/Lisanaaa)
-2. [jiangzhonglian](https://github.com/jiangzhonglian)
-3. [chenyyx](https://github.com/chenyyx)
-4. [cclauss](https://github.com/cclauss)
-5. [yudaer](https://github.com/yudaer)
-6. [yuzhoujr](https://github.com/yuzhoujr)
-7. [wizardforcel](https://github.com/wizardforcel)
-8. [Stuming](https://github.com/Stuming)
-9. [GaofanHu](https://github.com/GaofanHu)
-10. [er3456qi](https://github.com/er3456qi)
-11. [xshahq](https://github.com/xshahq)
-12. [xiaqunfeng](https://github.com/xiaqunfeng)
-13. [CaviarChen](https://github.com/CaviarChen)
-14. [royIdoodle](https://github.com/royIdoodle)
-15. [MarsXue](https://github.com/MarsXue)
-16. [nature1995](https://github.com/nature1995)
-
-you can make a pull request if you are not in the list above
 ## Pull Request
 
 If you feel your PR is satisfied with one of the conditions below, we are glad to merge it. Welcome to contributions, open to suggestions!
@@ -100,10 +81,6 @@ Feel free to get our [Pull Request template/模版](https://github.com/apachecn/
 ***Title format(文件命名格式): xxx._word1_word2_word3_word4.md***
 
 If you are a newbie of Git, please check this [tutorial](https://github.com/apachecn/kaggle/tree/dev/docs/GitHub) we have made.
-
-## Support
-- [GitHub issues](https://github.com/apachecn/awesome-leetcode/issues) for bug reports and new feature requests.
-- Our ```[QQ Group: 812791932]``` to ask questions, discuss features, and for general discussion.
 
 ## Acknowledgement
 
@@ -124,10 +101,4 @@ The current positioning of this project is to implement the basic algorithm in d
 
 ## License
 
-GPL-3.0 © [ApacheCN](https://github.com/apachecn)
-
-## Organization 
-
-* [ApacheCN 组织资源](https://github.com/apachecn/home): https://github.com/apachecn/home
-
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> 
