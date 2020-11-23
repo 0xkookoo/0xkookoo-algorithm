@@ -86,3 +86,143 @@ Sum of values in given range =  15
 Updated sum of values in given range =  21
 
 ```
+
+
+
+
+
+
+
+# 区间最大值查询，更新
+
+```python
+# Python3 code for range maximum query and updates
+from math import ceil, log
+
+
+def getMid(s, e):
+    return s + (e - s) // 2
+
+
+def MaxUtil(st, ss, se, l, r, node):
+    if (l <= ss and r >= se):
+        return st[node]
+    if (se < l or ss > r):
+        return -float('inf')
+    mid = getMid(ss, se)
+    return max(MaxUtil(st, ss, mid, l, r,
+                       2 * node + 1),
+               MaxUtil(st, mid + 1, se, l,
+                       r, 2 * node + 2))
+
+
+def updateValue(arr, st, ss, se, index, value, node):
+    if (index < ss or index > se):
+        # print("Invalid Input")
+        return
+
+    if (ss == se):
+        arr[index] = value
+        st[node] = value
+    else:
+        mid = getMid(ss, se)
+        if (index >= ss and index <= mid):
+            updateValue(arr, st, ss, mid, index,
+                        value, 2 * node + 1)
+        else:
+            updateValue(arr, st, mid + 1, se,
+                        index, value, 2 * node + 2)
+
+        st[node] = max(st[2 * node + 1],
+                       st[2 * node + 2])
+    return
+
+
+def getMax(st, n, l, r):
+    if (l < 0 or r > n - 1 or l > r):
+        # print("Invalid Input")
+        return -float('inf')
+
+    return MaxUtil(st, 0, n - 1, l, r, 0)
+
+
+def constructSTUtil(arr, ss, se, st, si):
+    if (ss == se):
+        st[si] = arr[ss]
+        return arr[ss]
+    mid = getMid(ss, se)
+
+    st[si] = max(constructSTUtil(arr, ss, mid, st,
+                                 si * 2 + 1),
+                 constructSTUtil(arr, mid + 1, se,
+                                 st, si * 2 + 2))
+
+    return st[si]
+
+
+def constructST(arr):
+    x = ceil(log(len(arr), 2))
+    max_size = 2 * pow(2, x) - 1
+    st = [-float('inf')] * max_size
+    constructSTUtil(arr, 0, len(arr) - 1, st, 0)
+    return st
+
+
+# Driver code
+if __name__ == '__main__':
+    arr = [-10,-34,-13]
+    n = len(arr)
+
+    # Build segment tree from given array 
+    st = constructST(arr)
+    print(st)
+
+    # Prmax of values in array 
+    # from index 1 to 3
+    for i in range(len(arr)):
+        for j in range(i+1,len(arr)):
+            print("Max of values in given range = " + str(i) + ' ' + str(j), getMax(st, n, i, j))
+    print("Max of values in given range = ", getMax(st, n, 1, 3))
+
+    # Update: set arr[1] = 8 and update 
+    # corresponding segment tree nodes. 
+    updateValue(arr, st, 0, n - 1, 1, 8, 0)
+
+    # Find max after the value is updated 
+    print("Updated max of values in given range = ", getMax(st, n, 1, 3))
+
+    # This code is contributed by mohit kumar 29
+```
+
+
+具体应用看problem: `Max Value of Equation`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
