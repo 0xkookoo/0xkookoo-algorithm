@@ -26,7 +26,7 @@
 - [fucking-alogorithm](https://github.com/labuladong/fucking-algorithm)
 
 ## Sponsor
-1. [Lisanaaa](https://github.com/Lisanaaa): **Feel free to see my profile and send me an email if you have any job opportunities.** 
+1. [0xkookoo](https://github.com/0xkookoo): **Feel free to see my profile and send me an email if you have any job opportunities.** 
 
 ## Pull Request
 
