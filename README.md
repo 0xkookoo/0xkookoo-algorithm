@@ -45,7 +45,7 @@ If you are a newbie of Git, please check this [tutorial](https://github.com/apac
 
 ## Acknowledgement
 
-> Please note, this repository is inspired from [KrisYu](https://github.com/KrisYu/LeetCode-CLRS-Python), and here is the [approve letter](https://github.com/apachecn/LeetCode/blob/master/images/Project%20cornerstone/approve%20letter.md). However, it has been modified, added and improved to reflect our knowledge, wisdom and efforts.
+> Please note, this repository is inspired from [KrisYu](https://github.com/KrisYu/LeetCode-CLRS-Python), and here is the [approve letter](https://github.com/0xkookoo/0xkookoo-algorithm/tree/master/images/Project%20cornerstone). However, it has been modified, added and improved to reflect our knowledge, wisdom and efforts.
 
 ## Log
 
