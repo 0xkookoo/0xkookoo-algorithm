@@ -49,12 +49,14 @@ If you are a newbie of Git, please check this [tutorial](https://github.com/apac
 
 ## Log
 
-- Aug 2017, I started to brush leetcode questions using Python .
-- Oct 2017, I saw Kris Yu's algorithm project on Github, but he has not updated it. I decided to build new one on my own and got his permission successfully.
-- Dec 2017, this project was only considered as my record of question solutions.
+- Aug 2017, I started to solve leetcode questions using Python .
+- Oct 2017, I saw Kris Yu's algorithm project on Github, but it's no longer maintained. I decided to build new one on my own and got his permission successfully.
+- Dec 2017, this project was only considered as my own record of question solutions.
 - Mar 2018, the project continued to have dozens of stars. I felt that my thinking and funny words were helpful to others, determined to persist, and never stop.
 - May 2018, I had to start my internship, less update, but the number of stars reached 200.
 - Sep 2018, since I was also looking for a domestic job, I would send my own code link on the nowcoder.com each time I finished the online tech test. The strategy for attracting traffic was very successful, number of stars reached 1.7k in a rush way. At this moment, I found that my thinking and description styles are very popular, but the power of one person is limited, so I would like to recruit some like-minded people to contribute to the project like myself. 
+- Sep 2020, I made this repo private.
+- Dec 2022, I made this repo PUBLIC again, for some of my precious colleagues to use.
 
 The current positioning of this project is to implement the basic algorithm in different programming languages, refining the boilerplate, and summarize the ideas. 
 
