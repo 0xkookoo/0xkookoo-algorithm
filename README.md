@@ -30,18 +30,18 @@
 
 ## Pull Request
 
-If you feel your PR is satisfied with one of the conditions below, we are glad to merge it. Welcome to contributions, open to suggestions!
+If you feel your PR is satisfied with one of the conditions below, we are glad to merge it. Welcome to contribute, open to suggestions!
 
 - Different thinking
 - Time & Space complexity optimization
 - Follow up solutions
 - Unsubmitted questions
 
-Feel free to get our [Pull Request template/模版](https://github.com/apachecn/awesome-algorithm/blob/master/PULL_REQUEST_TEMPLATE.md)
+Feel free to check our [Pull Request template/模版](https://github.com/apachecn/awesome-algorithm/blob/master/PULL_REQUEST_TEMPLATE.md)
 
 ***Title format(文件命名格式): xxx._word1_word2_word3_word4.md***
 
-If you are a newbie of Git, please check this [tutorial](https://github.com/apachecn/kaggle/tree/dev/docs/GitHub) we have made.
+If you are a newbie of Git, please check this [tutorial](https://github.com/apachecn/kaggle/tree/dev/docs/GitHub) we made for you.
 
 ## Acknowledgement
 
